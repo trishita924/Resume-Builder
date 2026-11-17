@@ -1,0 +1,21 @@
+PROJECT: RESUME BUILDER
+
+A browser-based resume creation tool with live preview, three visual templates, editable resume sections, draft saving and PDF export through the browser print dialog.
+
+MAIN FEATURES
+- Personal and contact information
+- Professional summary
+- Multiple education entries
+- Multiple experience entries
+- Multiple project entries
+- Skills and achievements
+- Modern, Classic and Minimal templates
+- Live preview
+- Save and restore draft in browser local storage
+- Print / Save as PDF
+
+TECHNOLOGIES
+HTML5, CSS3, JavaScript, Local Storage and Browser Print API.
+
+RUN LOCALLY
+Extract the ZIP and open index.html in a modern browser.
