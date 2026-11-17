@@ -1,34 +1,23 @@
 # Resume Builder
 
-Resume Builder is a browser-based tool for creating a clean, professional resume. Enter your details in the editor and see the document update in the live preview.
+Resume Builder is a browser-based application that helps users create professional resumes through an interactive editor with a real-time preview. Users can enter their personal details, education, work experience, projects, and skills, choose from different resume templates, and export their resume as a PDF.
+
+## Live Demo
+
+https://trishita924.github.io/Resume-Builder/
 
 ## Features
 
-- Live resume preview while editing
-- Three resume styles: Modern, Classic and Minimal
-- Personal information and professional summary fields
-- Add and remove multiple education, experience and project entries
-- Skills and achievements sections
-- Save a draft in the current browser and restore it on the same device/browser
-- Print or save the resume as a PDF using the browser's print dialog
-- Responsive layout for desktop and mobile
-- No account or backend required
-
-## How to Run
-
-1. Download and extract the project ZIP.
-2. Open the `Resume-Builder` folder.
-3. Open `index.html` in a modern web browser.
-4. Enter your details and select a resume style.
-5. Choose **Download PDF** and select **Save as PDF** in the print dialog.
-
-## Deploy with GitHub Pages
-
-1. Upload the contents of this folder to the root of a GitHub repository.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Choose branch `main` and folder `/ (root)`, then save.
-5. Wait for GitHub Pages to publish the site.
+- **Personal Information:** Add your name, professional title, contact details, and portfolio links.
+- **Professional Summary:** Write a short introduction highlighting your background and strengths.
+- **Education:** Add academic qualifications and institution details.
+- **Work Experience:** Include job roles, organizations, durations, and responsibilities.
+- **Projects:** Showcase personal and professional projects.
+- **Skills:** Highlight technical and professional skills.
+- **Multiple Templates:** Choose from three different resume designs.
+- **Live Preview:** View resume changes instantly while editing.
+- **Save Draft:** Save your resume progress in the browser.
+- **PDF Export:** Download or print your completed resume as a PDF.
 
 ## Technologies Used
 
@@ -38,14 +27,19 @@ Resume Builder is a browser-based tool for creating a clean, professional resume
 - Browser Local Storage
 - Browser Print API
 
+## How to Use
+
+1. Open the live application.
+2. Enter your personal and professional details.
+3. Add your education, experience, projects, and skills.
+4. Select your preferred resume template.
+5. Preview your resume in real time.
+6. Save your draft or export your resume as a PDF.
+
 ## Privacy
 
-Resume details are processed in the browser. Draft saving uses the browser's local storage on the current device and browser. The application does not send resume details to an external server.
-
-## Notes
-
-PDF export uses the browser's print dialog. Choose **Save as PDF** as the destination. The downloaded PDF may paginate according to the amount of content and the browser's print settings.
+Resume details are processed within the browser. Draft saving uses browser storage, and the application does not require an external account or backend server.
 
 ## Developer
 
-Add your name here.
+Trishita Bhowmick
